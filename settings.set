@@ -1,0 +1,16 @@
+{
+  "name": "Privacy Preserved Incremental Record Linkage",
+  "author": "Mohammad Sheikh Ghazanfar",
+  "version": "0.0.1",
+  "description": "Made for the purpose of undergraduate reasearch. Under the supervision of KSI.",
+  "priority_ratio" :[
+    {
+      "name"    : "0.2",
+      "gender"  : "0.2",
+      "age"     : "0.2",
+      "contact" : "0.2",
+      "address" : "0.2"
+    }
+  ], 
+  "thresehold" : 0.7
+}
